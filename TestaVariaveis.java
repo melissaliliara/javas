@@ -7,6 +7,6 @@ int idade;
 idade= 37;
 
 System.out.println(idade);
-System.out.printl ("A idade é "+idade);
+System.out.printl ("A idade é igual a"+idade);
 }
 }
